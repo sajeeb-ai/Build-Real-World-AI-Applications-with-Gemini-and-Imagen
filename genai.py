@@ -1,4 +1,4 @@
-## Build an AI Image Recognition app using Gemini on Vertex AI
+## Build an AI Image Recognition app using Gemini on Vertex AI ##
 
 import vertexai
 from vertexai.generative_models import GenerativeModel, Part
