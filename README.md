@@ -17,3 +17,14 @@ The code snippet is loading a pre-trained AI model called ImageGenerationModel (
 The code calls the generate_image method of the loaded Gemini model.
 The input to the method is a text prompt.
 The code uses Gemini's ability to understand the text prompt and use it to build an AI Image.
+
+## 3. Build an application to send Chat Prompts using the Gemini model - SendChatwithoutStream.py
+
+Code Explanation:
+
+The code snippet is loading a pre-trained AI model called Gemini (gemini-1.0-pro) on Vertex AI.
+The code calls the get_chat_response method of the loaded Gemini model.
+The input to the method is a text prompt.
+The code uses Gemini's ability to chat. It uses the text provided in the prompt to chat.
+
+## 4. Build an application to send Chat Prompts using the Gemini model - SendChatwithStream.py
