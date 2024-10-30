@@ -2,7 +2,8 @@
 
 ## 1. Build an AI Image Recognition app using Gemini on Vertex AI - genai.py
 
-Code Explanation
+Code Explanation:
+
 The code snippet is loading a pre-trained AI model called Gemini (gemini-1.0-pro-vision) on Vertex AI.
 The code calls the generate_content method of the loaded Gemini model.
 The input to the method is an image URI and a prompt containing a question about the image.
